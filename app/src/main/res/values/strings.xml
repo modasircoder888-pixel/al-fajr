@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Al Fajr</string>
+    <string name="prayer_fajr">Fajr</string>
+    <string name="prayer_sunrise">Sunrise</string>
+    <string name="prayer_dhuhr">Dhuhr</string>
+    <string name="prayer_asr">Asr</string>
+    <string name="prayer_maghrib">Maghrib</string>
+    <string name="prayer_isha">Isha</string>
+    <string name="next_prayer_label">Next Prayer</string>
+    <string name="battery_charging">Charging</string>
+</resources>

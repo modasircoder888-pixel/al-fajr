@@ -1,0 +1,6 @@
+{
+  "name": "Al Fajr",
+  "description": "Custom Islamic smartwatch interface designed for Android 8.1 with live Hijri-Gregorian calendar, digital watchface, prayer schedule, and battery monitor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
